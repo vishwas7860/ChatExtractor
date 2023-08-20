@@ -1,9 +1,8 @@
 # ChatExtractor
 ##### It will extract some important information from chats
-##### 1. Name
-##### 2. DOB
-##### 3. Address
-##### 4. Email Id
-##### 5. Mobile Number
-##### 6. Education
+##### Name, Date of Birth, Address, Email Id, Mobile Number, Education
 ##### It will save all the info in `CSV` file
+
+### Run the code
+#### 1. Please install transformers `!pip install transformers`
+#### 2. Run the cells step by step
